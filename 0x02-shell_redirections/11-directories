@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -type dir -name "*../" -print | wc -l
+find . -type dir -name '.' | wc -l
